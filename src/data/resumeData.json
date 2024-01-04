@@ -1,0 +1,109 @@
+{
+    "name": "Martin Labudík",
+    "role": "QA Engineer / QA Lead",
+    "skills": [
+        "Flexibility and reliability",
+        "Test Automation",
+        "Team leading",
+        "Technical background",
+        "Communication skills"
+    ],
+    "summary": {
+        "personality": "Martin comes from Slovakia. He is very communicative, hardworking and reliable man. He has excellent organizational and analytical skills.",
+        "testingAutomation": "He is focused especially on Cypress automation. He set up automation web and mobile applications from scratch, automated API tests using Postman and he is familiar with the SQL database. He has knowledge of the system development life cycle, he is able to prepare the test plan, implement them, prepare of test cases and test execution."
+    },
+    "projects": [
+        {
+            "title": "QA Lead / QA Engineer",
+            "company": "CENDIS s.p.",
+            "projects": [
+                "OneTicket.cz",
+                "PortalDopravy.cz",
+                "RPSD (taxi)"
+            ],
+            "period": "11/2022 - 12/2023",
+            "location": "Prague, CZ",
+            "description": [
+                "- Develop and implement quality assurance strategies, policies, and procedures specific to the transport sector",
+                "- Lead a team of QA testers, providing guidance, training, and performance evaluations",
+                "- Create test plans, test cases, and execute test scenarios to ensure compliance with regulatory requirements and standards",
+                "- Monitor and analyze quality metrics, identify trends and propose corrective actions to enhance service quality and customer satisfaction",
+                "- Daily communication with representatives of the Ministry of Transportation and its affiliated departments and divisions"
+            ]
+        },
+        {
+            "title": "QA Lead",
+            "company": "ROIVENUE™",
+            "period": "12/2021 – 02/2022",
+            "location": "Prague, CZ",
+            "description": ""
+        },
+        {
+            "title": "Quality Assurance Engineer",
+            "company": "CENDIS s.p.",
+            "period": "07/2020 – 11/2022",
+            "location": "Prague, CZ",
+            "description": ""
+        }
+    ],
+    "technologies": [
+        "Selenium",
+        "Cypress",
+        "Python",
+        "JavaScript",
+        "SAP",
+        "PostgreSQL",
+        "Postman",
+        "Swagger",
+        "NUnit",
+        "Jenkins",
+        "Git",
+        "C#",
+        "Confluence",
+        "Zephyr",
+        "Octopus",
+        "Jira",
+        "Trello",
+        "Visual Studio",
+        "Dynamics CRM"
+    ],
+    "languages": {
+        "Slovak": "Native",
+        "Czech": "Fluent",
+        "English": "Advanced",
+        "Spanish": "Intermediate",
+        "Japanese": "Beginner"
+    },
+    "education": [
+        {
+            "institution": "Česká zemědělská univerzita v Praze",
+            "fieldOfStudy": "Projektové řízení",
+            "degree": "Postgraduate",
+            "years": "2014 - 2015",
+            "location": "Prague, CZ"
+        }
+    ],
+    "otherProjects": [
+        {
+            "title": "Founder",
+            "company": "Nagomi tea",
+            "projects": [
+                "Nagomi tea",
+                "Oolongcha",
+                "Asijsky den v Chýni",
+                "Aki no Chakai",
+                "Fuyu no Chakai"
+            ],
+            "period": "2020 - present",
+            "location": "Prague, CZ",
+            "description": "E-shop maintenance with top premium quality Japanese teas and accessories."
+        }
+    ],
+    "certifications": [
+        "End-to-End JavaScript Testing with Cypress.io",
+        "Critical Chain",
+        "API Testing Foundations",
+        "Android Espresso Essential Training",
+        "Google Drive Essential Training"
+    ]
+}

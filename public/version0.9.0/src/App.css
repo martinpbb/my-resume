@@ -1,0 +1,97 @@
+/* Resetování základních stylů */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body, html {
+  height: 100%;
+  font-family: 'Arial', sans-serif;
+  background-color: #f8f8f8;
+  color: #333;
+}
+
+.App {
+  display: flex;
+  justify-content: center;
+  padding: 20px;
+}
+
+.container {
+  width: 100%;
+  max-width: 1200px; /* nebo podle vašeho designu */
+  background: #fff;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.header {
+  width: 100%;
+  background-color: #004a7c;
+  color: #fff;
+  text-align: center;
+  padding: 20px 0;
+}
+
+.name {
+  font-size: 36px;
+  font-weight: bold;
+}
+
+.role {
+  font-size: 18px;
+  margin-bottom: 10px;
+}
+
+.content {
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+  padding: 20px;
+}
+
+.left-column, .right-column {
+  width: calc(50% - 10px); /* odečtení padding */
+  display: flex;
+  flex-direction: column;
+}
+
+.section {
+  background: #e7eff6; /* světle modrá pozadí pro sekce */
+  padding: 20px;
+  margin-bottom: 20px;
+}
+
+.section-title {
+  font-size: 20px;
+  color: #333;
+  margin-bottom: 10px;
+}
+
+/* Styly pro seznamy */
+ul {
+  list-style-type: none;
+  padding-left: 20px;
+}
+
+/* Styly pro položky seznamů */
+li {
+  margin-bottom: 5px;
+}
+
+/* Přizpůsobení pro menší obrazovky */
+@media (max-width: 768px) {
+  .content {
+    flex-direction: column;
+    padding: 20px;
+  }
+
+  .left-column, .right-column {
+    width: 100%;
+  }
+}
+
+/* Další specifické styly podle potřeby */
