@@ -26,3 +26,9 @@ yarn-error.log*
 *.log
 
 package-lock.json
+public/manifest.json
+src/logo.svg
+src/reportWebVitals.js
+src/setupTests.js
+src/App.test.js
+README.old.md
